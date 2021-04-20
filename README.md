@@ -1,7 +1,5 @@
-# ao.com-test-task
+Import as Existing Maven project.
 
-# Import Existing Maven project.
+Install TestNG 
 
-# Install TestNG 
-
-# Go to > testng.xml file => Run as Test NG Suite
+Go to > testng.xml file => Run as Test NG Suite
